@@ -6,5 +6,5 @@ static_data: ''
 polling_verb: get
 polling_url: ''
 polling_headers: ''
-name: Winnie the Pooh
+name: Winnie the Pooh Quote
 refresh_interval: 
